@@ -26,8 +26,8 @@
     - Username: nitinkr@arkajainuniversity.ac.in
     - Password: nitinkumar
 2. For admin
-    - Username: :block:
-    - Password: :block:
+    - Username: 🚫
+    - Password: 🚫
 
 # Functionalities
 
