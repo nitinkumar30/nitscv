@@ -5,13 +5,13 @@
 
 # Languages Used
 
-> Frontend - HTML, CSS, JavaScript, Bootstrap  
+> Frontend - HTML, CSS, JavaScript, [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)  
 
-> Backend - PHP  
+> Backend - [PHP](https://www.php.net/manual/en/)  
 
-> Database - MySQL  
+> Database - [MySQL](https://dev.mysql.com/doc/)  
 
-> Server - XAMPP
+> Server - [XAMPP](https://www.apachefriends.org/download.html)
 
 
 # Usage
@@ -62,5 +62,4 @@
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Nitin Kumar](https://portfolio-nitin.netlify.app/)**                                                                                                                                        |
 | <a href="https://twitter.com/nitinkumar30"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/b1AcK6AG16"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/nitinkumar30/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |
-
 
