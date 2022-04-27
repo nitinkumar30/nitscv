@@ -23,7 +23,7 @@
 # Credentials
 
 1. For student
-    - Username: nitinkr@arkajainuniversity.ac.in
+    - Username: __nitin.kr@arkajainuniversity.ac.in__
     - Password: nitinkumar
 2. For admin
     - Username: 🚫
