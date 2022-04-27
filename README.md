@@ -52,7 +52,7 @@
 > 1. I've used an entity name for correct answer as 'sahi' instead of 'correct'.  
 > 2. The DBname was initially 'myproj' later changed to 'nitscv'.  
 > 3. It all started on 2018 & completed on 2022.  
-> 4. Project was made for the doing the handson in SQL mainly as per the syllabus.  
+> 4. Project was made for re-doing the handson in SQL mainly as per the syllabus.  
 > 5. This project is not copyright protected as this is my college project.  
 
 
