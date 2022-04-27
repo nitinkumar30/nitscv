@@ -11,7 +11,7 @@
 
 > Database - MySQL  
 
-> Stack - No Stack used
+> Server - XAMPP
 
 
 # Usage
